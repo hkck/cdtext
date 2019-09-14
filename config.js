@@ -140,34 +140,34 @@ var app = new Vue({
     我的作品: [
       {
         名称: '手绘',
-        地址: 'www.baidu.com',
+        地址: '',
         图片: 'images/timg.jpg',
         简介: '作品'
       },
       {
         名称: '平面',
-        地址: 'www.baidu.com',
+        地址: 'https://pan.baidu.com/s/1EOxSC57-iWcDLNH_uzWjRA',
         图片: 'images/12.jpg',
         简介: '作品'
       },
       {
         名称: '犀牛建模',
-        地址: 'www.baidu.com',
+        地址: 'https://pan.baidu.com/s/1lznZabWLjkJ7IyRMjsVBFQ',
         图片: 'images/13.jpg',
         简介: '作品'
       }, {
         名称: '3D建模',
-        地址: 'www.baidu.com',
+        地址: 'https://pan.baidu.com/s/1q8IbCGjCdUQbDccaKyPaew',
         图片: 'images/14.jpg',
         简介: '作品'
       }, {
         名称: 'UI',
-        地址: 'www.baidu.com',
+        地址: 'https://pan.baidu.com/s/1-a_A2pncYu2zatcf2sOpcw',
         图片: 'images/15.jpg',
         简介: '作品'
       }, {
         名称: '网页',
-        地址: 'www.baidu.com',
+        地址: 'https://pan.baidu.com/s/19Oz8Tvrov2ztzVi_moB_LQ',
         图片: 'images/16.jpg',
         简介: '作品'
       }, {
@@ -177,7 +177,7 @@ var app = new Vue({
         简介: '作品'
       }, {
         名称: '展板',
-        地址: 'www.baidu.com',
+        地址: 'https://pan.baidu.com/s/1E0znOQEPRBj7Lo9QFu9iGQ',
         图片: 'images/18.jpg',
         简介: '作品'
       }
